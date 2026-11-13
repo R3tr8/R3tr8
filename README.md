@@ -5,7 +5,7 @@ whether they actually work.
 
 - **Now**: first eval on code-review agents, with vs. without
   approval gates (Python, Pydantic, pytest)
-- **Building**: Watchtower, observability for AI agents (Go)
+- **Next**: Watchtower, observability for AI agents (Go)
 - **Day job**: co-founder at Backslash Cloud, from Martinique.
   Custom dev, DevSecOps
 - **Learning in public**: Rust → Python → evals
